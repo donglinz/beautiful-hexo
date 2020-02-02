@@ -1,21 +1,20 @@
 navbar-links:
-    Archive: /archives
-    Github: https://github.com/twoyao/beautiful-hexo
-    About: /about/
+    Home: /
+    Publication: /publication/
+    People: /people/
+    Projects: /projects/
+    Join Us: /joinus/
+    
 
-avatar: /hexo.png
-favicon: /hexo.png
+avatar: /transparent_icon.png
+favicon: /USYD_icon.png
 
 header:
     title: "Beautiful Hexo"
     motto: Build a beautiful and simple website in minutes
     bigimgs:
-        - src: /bigimgs/01.jpg
-          desc: beautiful island
-        - src: /bigimgs/02.jpg
-          desc: Tropical Fish
-        - src: /bigimgs/03.jpg
-          desc: ocean
+        - src: /bigimgs/USYD.jpg
+          desc: USYD
 
 rss: /atom.xml
 googlefonts:
@@ -38,9 +37,9 @@ footer:
     link: 'http://weibo.com/bisyao?is_all=1'
     title: Weibo
     icon: fa-weibo
-    enable: true
+    enable: false
   github:
-    link: 'https://github.com/twoyao'
+    link: 'https://github.com/donglinz'
     title: GitHub
     icon: fa-github
     enable: true
@@ -48,15 +47,15 @@ footer:
     link: '/atom.xml'
     title: RSS
     icon: fa-rss
-    enable: true
+    enable: false
   twitter:
     link: 'https://twitter.com/twoyao_'
     title: Twitter
     icon: fa-twitter
-    enable: true
+    enable: false
   mail:
-    link: 'mailto:bisyao@gmail.com'
-    title: Email me
+    link: 'mailto:donglinzhuang@outlook.com'
+    title: Email us
     icon: fa-envelope
     enable: true
   linkin:
